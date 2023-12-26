@@ -6,7 +6,7 @@ When I was in primary school (when music came on cassette tape), I saved up mone
 
 ## Common LISP
 
-I had the idea I might like to port some .. maybe all .. the games in that book to Common LISP. So this is my first attempt. It is not a direct port as I've made some changes along the way but I've tried to keep in the original spirt of the original BASIC game listing.
+I had the idea I might like to port some .. maybe all .. the games in that book to Common LISP. So this is my first attempt. It is not a direct port as I've made some changes along the way but I've tried to keep in the original spirt of the BASIC game listing.
 
 Common Lisp is a high-level programming language that offers several advantages:
 

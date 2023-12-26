@@ -26,4 +26,4 @@ Common Lisp is a high-level programming language that offers several advantages:
 
 *Extensibility: Lisp is easily extensible.
 
-These features make Common Lisp a powerful tool for solving complex problems.
+These features make Common Lisp a powerful tool for solving complex problems, and just goofing around and haveing fun!
